@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **mohamedtaherbouchahoua@gmail.com**
 
-- 🔭 I’m currently working on [JFONX](https://github.com/jfonx)
+<!-- - 🔭 I’m currently working on [JFONX](https://github.com/jfonx) -->
 
 <p align="left">
   <img
